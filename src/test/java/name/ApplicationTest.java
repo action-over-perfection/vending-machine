@@ -1,0 +1,5 @@
+package name;
+
+class ApplicationTest {
+
+}
